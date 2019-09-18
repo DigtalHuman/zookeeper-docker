@@ -4,6 +4,7 @@ ENV ZOO_CONF_DIR=/conf \
     ZOO_DATA_DIR=/data \
     ZOO_DATA_LOG_DIR=/datalog \
     ZOO_LOG_DIR=/logs \
+    ZOO_BIN_DIR=/apache-zookeeper-3.5.5-bin/bin
     ZOO_TICK_TIME=2000 \
     ZOO_INIT_LIMIT=5 \
     ZOO_SYNC_LIMIT=2 \
